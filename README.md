@@ -3,11 +3,11 @@ General Knowledge Quiz Game 🎮🧠
 Test your knowledge with this fun and interactive General Knowledge Quiz Game! This console-based quiz game challenges players with 15 multiple-choice questions covering topics like programming, computer science, and general tech knowledge.
 
 🛠 Features:
-✅ 15 diverse questions on various topics
-✅ Dynamic scoring system: +5 points for correct answers, -1 for wrong ones
-✅ Personalized experience with player name input
-✅ Interactive gameplay with real-time score updates
-✅ Exciting feedback messages based on performance
+✅ 15 diverse questions on various topics.
+✅ Dynamic scoring system: +5 points for correct answers, -1 for wrong ones.
+✅ Personalized experience with player name input.
+✅ Interactive gameplay with real-time score updates.
+✅ Exciting feedback messages based on performance.
 
 🎯 How to Play?
 1️⃣ Enter your name to begin.
