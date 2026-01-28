@@ -1,4 +1,4 @@
-# GK-questions-game
+# GK-questions-game PAVAN
 General Knowledge Quiz Game 🎮🧠
 Test your knowledge with this fun and interactive General Knowledge Quiz Game! This console-based quiz game challenges players with 15 multiple-choice questions covering topics like programming, computer science, and general tech knowledge.
 
